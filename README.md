@@ -3,6 +3,9 @@
 Welcome to my GitHub 🎮
 
 Here's some 🎶 **[background music](https://www.youtube.com/watch?v=xNjyG8S4_kI)** for your scrolling pleasure... 🎧
+
+
+Visit [my website](https://ashleykimm.github.io/) !
 <br><br><br>
 ## 🔨 _Tech Stack_ 🔨
 <!--
