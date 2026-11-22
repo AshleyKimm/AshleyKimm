@@ -40,6 +40,8 @@ Visit **[my website](https://ashleykimm.github.io/)**!
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/></a>
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
 </p>
 <br>
 
@@ -51,6 +53,7 @@ Visit **[my website](https://ashleykimm.github.io/)**!
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a>
   <a href="https://nunit.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nunit/resources/master/images/icon/nunit.svg" alt="nunit" width="40" height="40"/></a>
   <a href="https://pptr.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="40" height="40"/></a>
+  <a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.svg" alt="robot framework" width="40" height="40"/></a>
 </p>
 <br><br>
 
